@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//este es u programa oara de contro de gastos //
 public class Main {
     public static void main(String[] args) {
         String nombre = "Tony Stark";
